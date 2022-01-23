@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://gvido-lokalise.github.io/allure-test",
+  "buildOrder" : 1,
+  "buildName" : "GitHub Actions Run #1735344933",
+  "buildUrl" : "https://github.com/gvido-lokalise/allure-test/actions/runs/1735344933",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://gvido-lokalise.github.io/allure-test/1/"
+} ]

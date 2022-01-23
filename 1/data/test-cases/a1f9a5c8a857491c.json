@@ -1,0 +1,57 @@
+{
+  "uid" : "a1f9a5c8a857491c",
+  "name" : "Static name",
+  "fullName" : "io.qameta.allure.examples.junit5.AllureTitleTest.annotationTitleTest",
+  "historyId" : "b7afc649d8eaff43e316b8b77becf57f",
+  "time" : {
+    "start" : 1642924832598,
+    "stop" : 1642924832598,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az177-633"
+  }, {
+    "name" : "thread",
+    "value" : "2885@fv-az177-633.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.junit5.AllureTitleTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.junit5.AllureTitleTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "annotationTitleTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.junit5.AllureTitleTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a1f9a5c8a857491c.json",
+  "parameterValues" : [ ]
+}

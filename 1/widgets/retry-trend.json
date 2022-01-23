@@ -1,0 +1,9 @@
+[ {
+  "buildOrder" : 1,
+  "reportUrl" : "https://gvido-lokalise.github.io/allure-test/1/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 21,
+    "retry" : 0
+  }
+} ]

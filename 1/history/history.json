@@ -1,0 +1,422 @@
+{
+  "1abfaa665281127e63fd7cf8ed7be744" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a141cc57a6b73c1c",
+      "reportUrl" : "https://gvido-lokalise.github.io/allure-test/1//#testresult/a141cc57a6b73c1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642924832595,
+        "stop" : 1642924832596,
+        "duration" : 1
+      }
+    } ]
+  },
+  "c53b8f861e22db973d01182ab8d88d12" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1afe424d8a8ad3e",
+      "reportUrl" : "https://gvido-lokalise.github.io/allure-test/1//#testresult/1afe424d8a8ad3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642924832561,
+        "stop" : 1642924832574,
+        "duration" : 13
+      }
+    } ]
+  },
+  "8df3deb6e7618dc18e1fd3f5594d5be" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "64d541ee3ae1cc70",
+      "reportUrl" : "https://gvido-lokalise.github.io/allure-test/1//#testresult/64d541ee3ae1cc70",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642924832458,
+        "stop" : 1642924832474,
+        "duration" : 16
+      }
+    } ]
+  },
+  "b9daa09f2cd9f768a39a7e8a91c3c20c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7522a722012341e2",
+      "reportUrl" : "https://gvido-lokalise.github.io/allure-test/1//#testresult/7522a722012341e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642924832632,
+        "stop" : 1642924832634,
+        "duration" : 2
+      }
+    } ]
+  },
+  "743489deff83b05320ccc9bb57edc7da" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5d58bccdbbcbbb12",
+      "reportUrl" : "https://gvido-lokalise.github.io/allure-test/1//#testresult/5d58bccdbbcbbb12",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642924832582,
+        "stop" : 1642924832589,
+        "duration" : 7
+      }
+    } ]
+  },
+  "141c336fd13c118cb1faa564a496d7b5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "582eeac1d5df7c61",
+      "reportUrl" : "https://gvido-lokalise.github.io/allure-test/1//#testresult/582eeac1d5df7c61",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642924832608,
+        "stop" : 1642924832608,
+        "duration" : 0
+      }
+    } ]
+  },
+  "4fb97c2eb13351c7df02a02935e8b271" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "650a3a456ac08fa",
+      "reportUrl" : "https://gvido-lokalise.github.io/allure-test/1//#testresult/650a3a456ac08fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642924832618,
+        "stop" : 1642924832623,
+        "duration" : 5
+      }
+    } ]
+  },
+  "a0518510acbdde7729662dce5bf47660" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3f593ed70540eb8e",
+      "reportUrl" : "https://gvido-lokalise.github.io/allure-test/1//#testresult/3f593ed70540eb8e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642924832528,
+        "stop" : 1642924832530,
+        "duration" : 2
+      }
+    } ]
+  },
+  "372bbe4b4bbb163cf065db82eca504f8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cb554ec6fbc8b389",
+      "reportUrl" : "https://gvido-lokalise.github.io/allure-test/1//#testresult/cb554ec6fbc8b389",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642924832438,
+        "stop" : 1642924832440,
+        "duration" : 2
+      }
+    } ]
+  },
+  "b7afc649d8eaff43e316b8b77becf57f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a1f9a5c8a857491c",
+      "reportUrl" : "https://gvido-lokalise.github.io/allure-test/1//#testresult/a1f9a5c8a857491c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642924832598,
+        "stop" : 1642924832598,
+        "duration" : 0
+      }
+    } ]
+  },
+  "4cea40710bcc8d79488152475744b118" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b8931d8f90d9d5d2",
+      "reportUrl" : "https://gvido-lokalise.github.io/allure-test/1//#testresult/b8931d8f90d9d5d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642924832601,
+        "stop" : 1642924832602,
+        "duration" : 1
+      }
+    } ]
+  },
+  "4a33d99e5caa808f3f74c26ee54dfa90" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e74cef131ee63fc3",
+      "reportUrl" : "https://gvido-lokalise.github.io/allure-test/1//#testresult/e74cef131ee63fc3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642924832578,
+        "stop" : 1642924832580,
+        "duration" : 2
+      }
+    } ]
+  },
+  "928ba583d78cf996e6dfaed40645af76" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1012005744bb9ca0",
+      "reportUrl" : "https://gvido-lokalise.github.io/allure-test/1//#testresult/1012005744bb9ca0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642924832544,
+        "stop" : 1642924832547,
+        "duration" : 3
+      }
+    } ]
+  },
+  "ebe7f238b0be7a3e9c2ee74a3d43e178" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "66d4f504e086a819",
+      "reportUrl" : "https://gvido-lokalise.github.io/allure-test/1//#testresult/66d4f504e086a819",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642924832630,
+        "stop" : 1642924832631,
+        "duration" : 1
+      }
+    } ]
+  },
+  "d0b6c765ffbabbe8ba456684cee38be8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cb27ff92783c83fa",
+      "reportUrl" : "https://gvido-lokalise.github.io/allure-test/1//#testresult/cb27ff92783c83fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642924832425,
+        "stop" : 1642924832430,
+        "duration" : 5
+      }
+    } ]
+  },
+  "36d63474c658bfc53c7597768b4567c3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f25a81fd4bec28c7",
+      "reportUrl" : "https://gvido-lokalise.github.io/allure-test/1//#testresult/f25a81fd4bec28c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642924832603,
+        "stop" : 1642924832604,
+        "duration" : 1
+      }
+    } ]
+  },
+  "c7db100ca2d3ad858f1e2de5aa23e1ef" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "43e42ed706a4163b",
+      "reportUrl" : "https://gvido-lokalise.github.io/allure-test/1//#testresult/43e42ed706a4163b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642924832292,
+        "stop" : 1642924832316,
+        "duration" : 24
+      }
+    } ]
+  },
+  "64d3275cf0e37eeb527187beaa41ae30" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eea10c758cdf8b7c",
+      "reportUrl" : "https://gvido-lokalise.github.io/allure-test/1//#testresult/eea10c758cdf8b7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642924832503,
+        "stop" : 1642924832523,
+        "duration" : 20
+      }
+    } ]
+  },
+  "3d14425362ed4e17f11112726f3aa8dc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "735a4600e1f7e109",
+      "reportUrl" : "https://gvido-lokalise.github.io/allure-test/1//#testresult/735a4600e1f7e109",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642924832612,
+        "stop" : 1642924832616,
+        "duration" : 4
+      }
+    } ]
+  },
+  "a67525021383ab4c7a9a9b92140495fc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bcb4fad9dadf3c61",
+      "reportUrl" : "https://gvido-lokalise.github.io/allure-test/1//#testresult/bcb4fad9dadf3c61",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642924832626,
+        "stop" : 1642924832628,
+        "duration" : 2
+      }
+    } ]
+  },
+  "df1a0acf54f52d47441ad8a3b03961cc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "860567b52a7e1640",
+      "reportUrl" : "https://gvido-lokalise.github.io/allure-test/1//#testresult/860567b52a7e1640",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642924832445,
+        "stop" : 1642924832447,
+        "duration" : 2
+      }
+    } ]
+  }
+}
